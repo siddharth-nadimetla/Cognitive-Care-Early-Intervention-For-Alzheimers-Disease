@@ -19,4 +19,4 @@ We utilized the Alzheimer's Disease Dataset available on Kaggle for training and
 For questions or feedback, feel free to reach out:
 
 * LinkedIn: Siddharth Nadimetla[https://www.linkedin.com/in/siddharth-nadimetla-6a1487264/]
-* Email: rehansuhail19@gmail.com
+* Email: nsiddharth2809@gmail.com
